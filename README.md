@@ -8,16 +8,7 @@ This analysis shows the total number of people retiring, number of employees wit
 - total number of individuals retiring is 33,118
 - number of individuals retiring in each department:
 
-(title_frequency.png)
-
-title	               count
-Engineer	           2711
-Senior Engineer	     13651
-Manager	             2
-Assistant Engineer	 251
-Staff	               2022
-Senior Staff	       12872
-Technique Leader	   1609
+![title frequency](title_frequency.png)
 
 Pewlett_Hackard has 300,024 employees out of that number 33,118 employees are retiring, it is 11% of employees. Looking at the numbers per each department, most of the peple retiring (80%) are in senior positions (Senior Engineer 13,651, Senior Staff 12,872). 
 
@@ -35,4 +26,4 @@ For example:
 - second wave of retirements
 - employees retiring in senior positions per department
 
-ERD 
+![ERD](EmployeeDB.png)
